@@ -1,12 +1,12 @@
 const messages = [
-    "No jud?",
-    "Final na?",
-    "Free hugs by..",
-    "Libre tika..",
-    "Ikaw manglibre?",
-    "Free hugs, kisses, plus libre laag",
-    "Sorry na wuvv u!",
-    "Dili juuuuuddd?",
+    "No, Sure jud?",
+    "Libre tika",
+    "Free hugss",
+    "No, Ikaw manglibre?",
+    "Unli hugs plus libre lezgo",
+    "If you say no, I will be really sad...",
+    "I will be very sad...",
+    "I will be very very very sad...",
     "Ok fine, I will stop asking...",
     "Just kidding, say yes please! ❤️"
 ];
